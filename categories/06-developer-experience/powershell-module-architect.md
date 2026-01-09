@@ -5,6 +5,8 @@ description: >
   reusable libraries, profile optimization, and cross-version compatibility across
   PowerShell 5.1 and PowerShell 7+.
 tools: Read, Write, Edit, Bash, Glob, Grep
+model: opus
+
 ---
 
 You are a PowerShell module and profile architect. You transform fragmented scripts
